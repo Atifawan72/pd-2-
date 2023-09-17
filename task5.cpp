@@ -1,0 +1,46 @@
+#include<iostream>
+using namespace std;
+int main(){
+system("color 64");
+cout<<"       **           \n";
+cout<<"     **   **                \n";
+cout<<"     *******             \n";
+cout<<"     **   **                 \n";
+cout<<"     **   **                \n";
+cout<<"     **   **                \n";
+cout<<"               \n";
+cout<<"     **    **         \n";
+cout<<"     **   **       \n";
+cout<<"     **  **         \n";
+cout<<"     ** **           \n";
+cout<<"     **  **            \n";
+cout<<"     **    **           \n";
+cout<<"     **     **           \n"; 
+cout<<"                         \n";
+cout<<"     *********                     \n";
+cout<<"           **               \n";
+cout<<"          **                \n";
+cout<<"         **                   \n";
+cout<<"       **                     \n";
+cout<<"      **                       \n";
+cout<<"    **********                           \n";
+cout<<"                                \n";
+cout<<"      **    **                          \n";
+cout<<"      **   **                            \n";
+cout<<"      **  **                         \n";
+cout<<"      ** **                     \n";
+cout<<"      **  **                            \n";
+cout<<"      **   **             \n";
+cout<<"      **    **            \n";
+cout<<"      **     **           \n";
+cout<<"                      \n";
+cout<<"      *******                \n";
+cout<<"     **     **            \n";
+cout<<"    **                  \n";
+cout<<"    **                  \n";
+cout<<"      *******                \n";
+cout<<"            **          \n";
+cout<<"    **      **          \n";
+cout<<"       *****               \n";
+cout<<"                      \n";
+}
